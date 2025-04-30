@@ -14,7 +14,7 @@ When completing the activity, the user must click on the completed option to ear
 
 # Technologies
 <ul>
-  <li> HTML / CSS / JS / TypeScript </li>
+  <li> HTML / CSS / Javascript </li>
   <li> React / NextJS</li>
   <li> JS-Cookie </li>
   <li> React Icons / React DOM</li>
